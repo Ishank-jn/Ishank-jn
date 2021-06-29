@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ishank Jain
-- 👀 I’m interested in building and developing software and solutions.
+- 👀 I’m interested in developing software and solutions.
 - 🌱 I’m currently learning Front-end development and data crunching.
 - 💞️ I’m looking to collaborate on distributed computing and back-end developement
 - 📫 You can reach me on Linkedin (https://www.linkedin.com/in/ishank-jain-ij7/)
