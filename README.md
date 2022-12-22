@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ishank Jain
-- 👀 I’m interested in developing software and solutions.
-- 🌱 I’m currently trying to start working on open-source contribution.
+- 👀 I’m interested in software solutions and data crunching.
+- 🌱 I’m currently exploring open-source projects and learning Node JS.
 - 💞️ I’m looking to collaborate on distributed computing and back-end developement
 - 📫 You can reach me on Linkedin (https://www.linkedin.com/in/ishank-jain-ij7/)
 
