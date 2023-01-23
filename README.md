@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ishank Jain.
-- 👀 I’m interested in software solutions and data crunching.
+- 👀 I’m interested in data science, and backend-software engineering.
 - 🌱 I’m currently exploring open-source projects and learning Node JS.
 - 💞️ I’m looking to collaborate on distributed computing and back-end developement projects.
 - 📫 You can reach me on Linkedin (https://www.linkedin.com/in/ishank-jain-ij7/).
