@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ishank Jain.
-- 👀 I’m interested in data science, and backend-software engineering.
+- 👀 I’m interested in backend-software engineering which includes distributed systems, cloud storage, cache management system, task manager etc.
 - 🌱 I’m currently exploring open-source projects and learning Node JS.
-- 💞️ I’m looking to collaborate on distributed computing, Data Science and back-end developement projects.
+- 💞️ I’m looking to collaborate on distributed computing and back-end developement projects.
 - 📫 You can reach me on Linkedin (https://www.linkedin.com/in/ishank-jain-ij7/).
 
 <!---
